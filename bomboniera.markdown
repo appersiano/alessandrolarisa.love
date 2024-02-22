@@ -3,6 +3,11 @@ layout: page
 permalink: /bomboniera/
 ---
 
+<audio controls autoplay>
+  <source src="../assets/audio/bob-marley-is-this-love-lofi.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 Cari amici e familiari,
 
 Con tutto il nostro cuore, vi ringraziamo per aver condiviso con noi il giorno più bello e significativo della nostra vita. La vostra presenza ha reso il nostro matrimonio ancora più speciale e indimenticabile. 🌸💍
@@ -14,8 +19,3 @@ Vi siamo profondamente grati per il vostro amore e sostegno. Che il ricordo di q
 Con affetto e riconoscenza,
 
 Alessandro & Larisa 🌟🥂
-
-<audio controls autoplay>
-  <source src="../assets/audio/bob-marley-is-this-love-lofi.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
